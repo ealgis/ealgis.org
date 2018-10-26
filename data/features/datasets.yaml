@@ -1,0 +1,4 @@
+weight: 2
+name: "Datasets"
+icon: "fa fa-database"
+description: "Extensive datasets out of the box, including 2011 and 2016 Australian Censuses"

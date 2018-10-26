@@ -1,0 +1,4 @@
+weight: 5
+name: "Share maps"
+icon: "fa fa-share"
+description: "Maps generated with EAlGIS can be shared with colleagues, or with the whole internet!"

@@ -1,0 +1,4 @@
+weight: 6
+name: "Analyse offline"
+icon: "fa fa-bar-chart-o"
+description: "Once you've generated a map, download the data in standard formats for further analysis"
