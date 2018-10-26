@@ -1,4 +1,4 @@
-baseurl = "https://ealgis.org"
+baseurl = "https://ealgis.org/"
 title = "EAlGIS: Map Everything"
 theme = "hugo-universal-theme"
 
